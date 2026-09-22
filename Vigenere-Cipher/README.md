@@ -93,10 +93,13 @@ Dengan demikian, hasil dekripsi menggunakan key yang benar akan menghasilkan kem
 
 ## Screenshot Program
 1. Menu Utama
+   
 ![Menu Utama](screenshot/menu.png)
 
-2. Enkripsi
+3. Enkripsi
+   
 ![Hasil Enkripsi](screenshot/enkripsi.png)
 
-3. Dekripsi
+5. Dekripsi
+   
 ![Hasil Dekripsi](screenshot/dekripsi.png)
