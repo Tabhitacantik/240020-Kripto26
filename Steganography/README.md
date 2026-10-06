@@ -1,3 +1,8 @@
+1. **Nama    : Kezia Tabhita Smith**
+2. **NPM     : 140810240020**
+3. **Kelas   : Kriptografi A**
+4. **Tanggal : 15 September 2026**
+
 # LSB Steganography
 
 Tugas Praktikum Kriptografi – Pertemuan 5 (Steganografi, LSB, Steganalysis).
