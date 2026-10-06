@@ -10,6 +10,17 @@ Tugas Praktikum Kriptografi – Pertemuan 5 (Steganografi, LSB, Steganalysis).
 Program Python untuk menyembunyikan **teks** atau **file apa pun (termasuk gambar)** ke dalam citra
 menggunakan metode **Least Significant Bit (LSB)**, dilengkapi fitur steganalysis (Enhanced LSB Attack).
 
+## Struktur Folder
+
+```
+Steganography/
+├── LSB_steg.py
+├── README.md
+├── cover.png
+├── hasil/
+└── screenshot/
+```
+
 ## Fitur
 
 | Fitur | Keterangan |
@@ -21,16 +32,6 @@ menggunakan metode **Least Significant Bit (LSB)**, dilengkapi fitur steganalysi
 | Validasi kapasitas | Menolak pesan yang melebihi kapasitas citra |
 | PSNR | Menampilkan kualitas stego-image setelah encode |
 | Analyze | Enhanced LSB Attack untuk mendeteksi pesan secara visual |
-
-## Struktur Folder
-
-```
-Steganography/
-├── LSB_steg.py
-├── README.md
-├── cover.png
-└── screenshot/
-```
 
 ## Instalasi
 
