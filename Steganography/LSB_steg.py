@@ -1,3 +1,9 @@
+
+# Nama    : Kezia Tabhita Smith
+# NPM     : 140810240020
+# Kelas   : Kriptografi A
+# Tanggal : 15 September 2026
+
 import argparse
 import math
 import os
