@@ -1,7 +1,7 @@
 1. **Nama    : Kezia Tabhita Smith**
 2. **NPM     : 140810240020**
 3. **Kelas   : Kriptografi A**
-4. **Tanggal : 15 September 2026**
+4. **Tanggal : 6 Oktober 2026**
 
 # LSB Steganography
 
